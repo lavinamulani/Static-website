@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>gg</title>
+</head>
+<frameset rows="25%,60%">
+<frame src="frame_a.htm"><frameset cols="50%,50%">
+<frame src="frame_b.htm">
+<frame src="frame_c.htm">
+</frameset>
+<frame src="frame_b.htm">
+<frame src="frame_c.htm">
+</frameset>
+</html>
